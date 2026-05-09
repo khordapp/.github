@@ -2,11 +2,11 @@
 
 **Music, across every platform.**
 
-Khord is a self-hosted, decentralized music sharing platform built on the [AT Protocol](https://atproto.com). Share a song once — your friends listen on whichever streaming service they use. Spotify, Apple Music, Tidal, Deezer, and more, all from a single share.
+Khord is a self-hosted, decentralized music sharing platform built on the [AT Protocol](https://atproto.com). Share a song once — your friends listen on whichever streaming service they use. Spotify, Apple Music, Deezer, etc.
 
 ## What makes it different
 
-- **Cross-platform by default** — every shared song is automatically resolved to all major streaming services via [Odesli](https://odesli.co)
+- **Cross-platform by default** — every shared song is automatically resolved to major streaming services
 - **Decentralized identity** — sign in with your Bluesky account; your records live in your own AT Protocol identity, not a central database
 - **Collaborative mixtapes** — create ordered playlists, let friends propose songs, accept or dismiss them, and share the result
 - **Self-hosted** — run your own instance around a genre, an era, a scene, or a group of friends
